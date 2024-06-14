@@ -1,3 +1,6 @@
+React-based Todo application designed to manage tasks. It allows users to add new tasks, mark tasks as completed, edit existing tasks, and delete tasks. The application utilizes React hooks for state management and FontAwesome icons for UI enhancements. Deployment to GitHub Pages is configured for easy accessibility.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
